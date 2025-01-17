@@ -1,4 +1,4 @@
-# python-3-steam-authenticator
+# python3-steam-authenticator
 Time-based One-time Password (TOTP) Algorithm in Python 3 for Steam.
 
 ## Preview
